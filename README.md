@@ -50,9 +50,3 @@ To run the data wrangling script, follow these steps:
 
 python data_wrangling.py
 
-
-### Tips for Using the README
-
-1. **Update Links**: Make sure to include links to any other resources, documentation, or files relevant to your project.
-2. **Add More Sections**: Feel free to add any additional sections or details that you think would be useful for viewers of your portfolio.
-3. **Formatting**: GitHub Markdown supports various formatting options, so adjust the README for clarity and presentation as needed.
